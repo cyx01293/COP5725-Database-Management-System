@@ -1,0 +1,40 @@
+#login-content{
+    width: 50%;
+    margin: auto;
+}
+#login-content form,#login-content p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.38;
+    color: #222222;
+    font-family: 'Lato', Helvetica Neue, Arial, Sans-serif;
+}
+#login-content a, #login-content a:visited{
+    background: transparent;
+    color: #51748b;
+}
+#login-content a:link, #login-content a:hover, #login-content a:active {
+    color: #51748b;
+    font-weight: bold;
+    text-decoration: none;
+}
+input[type="button"], input[type="reset"], input[type="submit"], ul.links li a, ul.pager li > a:focus, ul.pager li > a:hover, ul.pager li.pager-current {
+    background-color: #34495e;
+    padding: 15px;
+    margin: 5px 5px 5px 0;
+    font-size: 14px;
+    font-variant: small-caps;
+
+    position: relative;
+ 
+    color: #ffffff;
+    display: inline-block;
+    line-height: 1;
+    border-radius: 4px;
+    border: none;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    -webkit-appearance: button;
+    cursor: pointer;
+    font-family: 'Lato', Helvetica Neue, Arial, Sans-serif;
+}
