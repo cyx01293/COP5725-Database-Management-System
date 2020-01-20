@@ -1,5 +1,6 @@
 # COP5725-Database-Management-System
 ## 1. General
+COP-5725 Database Management System Fall 2018 University of Florida
 ### 1.1 Purpose
 This project creates an Australian Weather Information Database System (AWIDS). AWIDS uses daily weather observation datasets of 49
 Australian cities from January 1, 2009 to June 25, 2017. This document explains technical and functional requirements of AWIDS and provides information about the roles and responsibilities needed to support such a system. This document also explains the relationship between various functions.
